@@ -3,3 +3,12 @@ A C language implementation of a Rubik's Cube simulator on Linux. The program di
 
 # Running Examples
 ![Running Examples](./resource/pic1.jpg)
+
+# Building and Running
+To build and run the program, follow these steps:
+
+    #Bash
+    git clone git@github.com:myj0e/MagicCube.git
+    cd MagicCube
+    make
+    ./mc
